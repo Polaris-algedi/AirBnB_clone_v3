@@ -157,9 +157,9 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 --------------------------------------------------------------------------------------------------------
-#### Add The RESTful API
-Ons Hafi  - [Github](https://github.com/onyxvail) / [Twitter](https://twitter.com/AzgedaSeya)
-Mohammed Karchal  - [Github](https://github.com/Polaris-algedi) / [Twitter](https://twitter.com/MohammedKarchal)
+#### Add The RESTful API:
+Ons Hafi - [Github](https://github.com/onyxvail) / [Twitter](https://twitter.com/AzgedaSeya)
+Mohammed Karchal - [Github](https://github.com/Polaris-algedi) / [Twitter](https://twitter.com/MohammedKarchal)
 --------------------------------------------------------------------------------------------------------
 Second part of Airbnb: Joann Vuong
 ## License
