@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" objects that handles all default RestFul API actions for places """
+"""
+This module defines the views for the 'places' endpoint of the API
+"""
 # Created by onyxvail
 # Edited by Polaris-algedi
 from models.state import State

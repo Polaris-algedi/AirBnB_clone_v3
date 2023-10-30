@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" objects that handle all default RestFul API actions for States """
+"""
+This module defines the views for the 'states' endpoint of the API
+"""
 from models.state import State
 from models import storage
 from api.v1.views import app_views

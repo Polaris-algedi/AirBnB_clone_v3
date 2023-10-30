@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-This is the __init__ module.
-
-This module initializes the Flask application.
+This module initializes the Flask app and the views for the API
 """
 
 from flask import Blueprint
@@ -17,3 +15,4 @@ from api.v1.views.cities import *
 from api.v1.views.amenities import *
 from api.v1.views.users import *
 from api.v1.views.places import *
+from api.v1.views.places_reviews import *

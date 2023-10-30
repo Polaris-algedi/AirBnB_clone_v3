@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" objects that handles all default RestFul API actions for amenities """
+"""
+This module defines the views for the 'amenities' endpoint of the API
+"""
 # Created by onyxvail
 # Edited by Polaris-algedi
 from models.amenity import Amenity
